@@ -26,7 +26,10 @@ A lot of Python knowledge as well as knowledge on how Discord bots are made. We 
 <strong>What's next for Tamacord:</strong><br />
 More features and activities that you can do with your virtual pet, such as playing simple games like rock - paper - scissors, more parameters regarding the well-being of your pet and new buttons to help with said parameters.
 
+<strong>Where to find our video:</strong><br />
+https://youtu.be/c5arPbN-gro
+
 <strong>**Note:**</strong><br />
 The Discord Bot TOKEN and the Google Cloud account have not been included in this submission for security purposes
 
-<strong>By:</strong> Cameron Tuffner-Lyons, Amanah Albaba, Gaurav Divecha, & Adam Szava 
+<strong>By:</strong> Cameron Tuffner-Lyons (FriitzTM), Amanah Albaba (AmanahAlbaba), Gaurav Divecha (gdivecha), & Adam Szava (AdamSzava)
