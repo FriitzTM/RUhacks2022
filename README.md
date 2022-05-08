@@ -1,6 +1,6 @@
 # <strong>RUHacks2022</strong> - Tamacord
 
-<img src=https://cdn.discordapp.com/attachments/956542155101454396/972692636660035584/unknown.png width="300">
+<img src=https://cdn.discordapp.com/attachments/956542155101454396/972692636660035584/unknown.png width="500">
 
 <strong>Description:</strong> <br />
 The addicting pet simulator reborn in the realm of Discord. Tamacord brings the joy of feeding, grooming, raising, and playing with a virtual pet that displays emotions based on its level of care.
