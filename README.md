@@ -27,7 +27,7 @@ A lot of Python knowledge as well as knowledge on how Discord bots are made. We 
 More features and activities that you can do with your virtual pet, such as playing simple games like rock - paper - scissors, more parameters regarding the well-being of your pet and new buttons to help with said parameters.
 
 <strong>Where to find our video:</strong><br />
-https://youtu.be/c5arPbN-gro
+https://youtu.be/hP8ix0KbYhw
 
 <strong>**Note:**</strong><br />
 The Discord Bot TOKEN and the Google Cloud account have not been included in this submission for security purposes
